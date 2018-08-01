@@ -3,12 +3,16 @@ body {
 }
 
 .renoimg {
-  /*width: 250px;*/
   padding: 1px;
   background-color: yellow;
-  width: 2000px
+
 }
 
+img {
+  height: 35%;
+  min-height: 150px;
+  max-width: 200px;
+}
 .adopt {
   float: left;
   font-family: sans-serif;
@@ -16,14 +20,18 @@ body {
   width: 24%
 }
 
-.pcolumn {
+.pet-name{
+  font-size: 28px;
+  font-weight: 900;
+}
+/*.pcolumn {
   width: 24%
   float: left;
   /*height: 250px;*/
   /*width: 500px;*/
   /*margin-right: 500px;*/
-  background-color: black;
-}
+  /*background-color: black;
+}*/
 
 .bird {
   background-color: red;
@@ -44,7 +52,7 @@ body {
 }
 
 .fish {
-  background-color: blue;
+  background-color: green;
   border: black 2px solid;
 
 }
@@ -54,5 +62,5 @@ h1 {
   font-weight: bold;
   font-size: 80px;
   text-align: center;
-  color: teal;
+  color: cyan;
 }
