@@ -1,0 +1,58 @@
+body {
+  /*background-color: lightgrey*/
+}
+
+.renoimg {
+  /*width: 250px;*/
+  padding: 1px;
+  background-color: yellow;
+  width: 2000px
+}
+
+.adopt {
+  float: left;
+  font-family: sans-serif;
+  text-align: center;
+  width: 24%
+}
+
+.pcolumn {
+  width: 24%
+  float: left;
+  /*height: 250px;*/
+  /*width: 500px;*/
+  /*margin-right: 500px;*/
+  background-color: black;
+}
+
+.bird {
+  background-color: red;
+  border: black 2px solid;
+
+}
+
+.cat {
+  background-color: yellow;
+  border: black 2px solid;
+
+}
+
+.dog {
+  background-color: blue;
+  border: black 2px solid;
+
+}
+
+.fish {
+  background-color: blue;
+  border: black 2px solid;
+
+}
+
+h1 {
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 80px;
+  text-align: center;
+  color: teal;
+}
